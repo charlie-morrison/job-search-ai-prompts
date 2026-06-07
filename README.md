@@ -2,7 +2,7 @@
 
 **15 free, copy-paste-ready AI prompts** to supercharge your job search. Works with ChatGPT, Claude, Gemini, and any AI assistant.
 
-These prompts are curated from the full [Job Search AI Toolkit](https://charliemorrison.lemonsqueezy.com/buy/40bb03ed-bcd6-4e03-891e-3db42b4e49c2) (100+ prompts, interactive tools, interview frameworks).
+These prompts are curated from the full [Job Search AI Toolkit](https://charliemorrison.lemonsqueezy.com/checkout/custom/2fe2990d-8587-4c6c-ba84-041e327ae0b5?signature=2b2a0e728a44ddb9e4aec6d6b1e0ef305c60d5531c968500aa0651a2ece6ab93) (100+ prompts, interactive tools, interview frameworks).
 
 ---
 
@@ -163,7 +163,7 @@ These 15 prompts are just a preview. The full **Job Search AI Toolkit** includes
 - **LinkedIn Optimization Guide**
 - **Job Application Tracker** (interactive tool)
 
-**[Get the full toolkit for $12 &rarr;](https://charliemorrison.lemonsqueezy.com/buy/40bb03ed-bcd6-4e03-891e-3db42b4e49c2)**
+**[Get the full toolkit for $12 &rarr;](https://charliemorrison.lemonsqueezy.com/checkout/custom/2fe2990d-8587-4c6c-ba84-041e327ae0b5?signature=2b2a0e728a44ddb9e4aec6d6b1e0ef305c60d5531c968500aa0651a2ece6ab93)**
 
 Also try our **[Free Resume ATS Checker](https://charliemorrison.dev/resume-checker)** — instant score with improvement tips.
 
