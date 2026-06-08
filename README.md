@@ -165,6 +165,8 @@ These 15 prompts are just a preview. The full **Job Search AI Toolkit** includes
 
 **[Get the full toolkit for $12 &rarr;](https://charliemorrison.lemonsqueezy.com/checkout/custom/2fe2990d-8587-4c6c-ba84-041e327ae0b5?signature=2b2a0e728a44ddb9e4aec6d6b1e0ef305c60d5531c968500aa0651a2ece6ab93)**
 
+> 💸 **15% off** with code `GH15` at checkout.
+
 Also try our **[Free Resume ATS Checker](https://charliemorrison.dev/resume-checker)** — instant score with improvement tips.
 
 ---
